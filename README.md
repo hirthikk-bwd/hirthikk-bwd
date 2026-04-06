@@ -1,7 +1,8 @@
 # Hey, I'm Hirthikk 👋
 
 Final-year ECE student at Chennai, graduating June 2026.
-Targeting Backend SDE & SaaS roles — building production-grade systems from scratch.
+Targeting Backend SDE roles at Zoho, Freshworks, Razorpay, Postman, Chargebee.
+Building production-grade backend systems from scratch — 3 month sprint.
 
 ---
 
@@ -9,6 +10,7 @@ Targeting Backend SDE & SaaS roles — building production-grade systems from sc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
@@ -19,17 +21,18 @@ Targeting Backend SDE & SaaS roles — building production-grade systems from sc
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | P1 | [CLI Log Analyzer](https://github.com/hirthikk-bwd/backend-projects) | Python, rich, pytest | ✅ Complete |
-| P2 | SaaS Billing Schema | Flask, PostgreSQL, SQLAlchemy | 🔨 Building |
-| P3 | Job Tracker API | Flask, REST, Swagger | ⏳ Upcoming |
-| P4 | URL Shortener + Analytics | Flask, PostgreSQL, Redis | ⏳ Upcoming |
-| P5 | Real-time Notification Service | WebSockets, AWS | ⏳ Upcoming |
+| P2 | URL Shortener API | Flask, PostgreSQL, Redis, Docker | 🔨 Building |
+| P3 | Job Tracker API | Flask, PostgreSQL, JWT, Docker | ⏳ Upcoming |
+| P4 | Rate Limiter + API Gateway | Flask, Redis, Docker | ⏳ Upcoming |
+| P5 | Deployed SaaS MVP | Everything + AWS EC2/RDS | ⏳ Upcoming |
 
 ---
 
 ## 📅 Current Schedule
-- **2hrs/day** — Backend projects
-- **1hr/day** — DSA (LeetCode, pattern-based)
-- **30min/day** — System Design
+- **2.5hrs/day** — Backend projects
+- **2hrs/day** — DSA (LeetCode, pattern-based)
+- **45min/day** — System Design
+- **45min/day** — LinkedIn / SQL / Review
 
 ---
 
