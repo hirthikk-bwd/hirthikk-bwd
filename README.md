@@ -34,4 +34,4 @@ Targeting Backend SDE & SaaS roles — building production-grade systems from sc
 ---
 
 ## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hirthikk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hirthikk08)
