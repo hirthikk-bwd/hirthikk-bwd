@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Hirthikk 👋
 
-<!--
-**hirthikk-bwd/hirthikk-bwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year ECE student at Chennai, graduating June 2026.
+Targeting Backend SDE & SaaS roles — building production-grade systems from scratch.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+## 🚀 Backend Roadmap Projects
+
+| # | Project | Stack | Status |
+|---|---------|-------|--------|
+| P1 | [CLI Log Analyzer](https://github.com/hirthikk-bwd/backend-projects) | Python, rich, pytest | ✅ Complete |
+| P2 | SaaS Billing Schema | Flask, PostgreSQL, SQLAlchemy | 🔨 Building |
+| P3 | Job Tracker API | Flask, REST, Swagger | ⏳ Upcoming |
+| P4 | URL Shortener + Analytics | Flask, PostgreSQL, Redis | ⏳ Upcoming |
+| P5 | Real-time Notification Service | WebSockets, AWS | ⏳ Upcoming |
+
+---
+
+## 📅 Current Schedule
+- **2hrs/day** — Backend projects
+- **1hr/day** — DSA (LeetCode, pattern-based)
+- **30min/day** — System Design
+
+---
+
+## 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hirthikk)
