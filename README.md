@@ -28,16 +28,6 @@ Building production-grade backend systems from scratch — 3 month sprint.
 
 ---
 
-## 📅 Current Schedule
-- **2.5hrs/day** — Backend projects
-- **2hrs/day** — DSA (LeetCode, pattern-based)
-- **45min/day** — System Design
-- **45min/day** — LinkedIn / SQL / Review
-
----
-
----
-
 ## 🏥 Final Year Project
 
 ### AI-Powered Pneumonia Detection System
@@ -48,5 +38,14 @@ Deep learning system to detect pneumonia from chest X-ray images via a web-based
 - DenseNet121 architecture — 98.40% binary classification accuracy
 - Automated PDF diagnostic report generation using ReportLab
 
+---
+
+## 📅 Current Schedule
+- **2.5hrs/day** — Backend projects
+- **2hrs/day** — DSA (LeetCode, pattern-based)
+- **45min/day** — System Design
+- **45min/day** — LinkedIn / SQL / Review
+
+---
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirthikk08)
