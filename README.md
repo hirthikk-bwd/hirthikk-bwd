@@ -22,7 +22,7 @@ Building production-grade backend systems from scratch — 3 month sprint.
 |---|---------|-------|--------|
 | P1 | [CLI Log Analyzer](https://github.com/hirthikk-bwd/backend-projects) | Python, rich, pytest | ✅ Complete |
 | P2 | [URL Shortener API](https://github.com/hirthikk-bwd/backend-projects) | Flask, PostgreSQL, Redis, Docker | ✅ Complete |
-| P3 | Job Tracker API | Flask, PostgreSQL, JWT, Docker | ⏳ Upcoming |
+| P3 | [Job Tracker API](./job-tracker-api) | Flask, PostgreSQL, JWT, Docker | ✅ Complete |
 | P4 | Rate Limiter + API Gateway | Flask, Redis, Docker | ⏳ Upcoming |
 | P5 | Deployed SaaS MVP | Everything + AWS EC2/RDS | ⏳ Upcoming |
 
