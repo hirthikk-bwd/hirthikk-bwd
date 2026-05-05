@@ -1,12 +1,10 @@
-# Hey, I'm Hirthikk 👋
+# Hirthik Kumar G S
 
-Final-year ECE student at Chennai, graduating June 2026.
+Backend engineer building production-grade systems from scratch.
 Targeting Backend SDE roles at Zoho, Freshworks, Razorpay, Postman, Chargebee.
-Building production-grade backend systems from scratch — 3 month sprint.
 
----
+## Stack
 
-## 🛠 Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -14,38 +12,26 @@ Building production-grade backend systems from scratch — 3 month sprint.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
----
-
-## 🚀 Backend Roadmap Projects
+## Backend Projects
 
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
-| P1 | [CLI Log Analyzer](https://github.com/hirthikk-bwd/backend-projects) | Python, rich, pytest | ✅ Complete |
-| P2 | [URL Shortener API](https://github.com/hirthikk-bwd/backend-projects) | Flask, PostgreSQL, Redis, Docker | ✅ Complete |
+| P1 | [CLI Log Analyzer](https://github.com/hirthikk-bwd/backend-projects/tree/main/CLI%20LOG%20ANALYSER) | Python, rich, pytest | ✅ Complete |
+| P2 | [URL Shortener API](https://github.com/hirthikk-bwd/backend-projects/tree/main/URL%20SHORTENER) | Flask, PostgreSQL, Redis, Docker | ✅ Complete |
 | P3 | [Job Tracker API](https://github.com/hirthikk-bwd/backend-projects/tree/main/job-tracker-api) | Flask, PostgreSQL, JWT, Docker | ✅ Complete |
-| P4 | [Rate Limiter + API Gateway](https://github.com/hirthikk-bwd/backend-projects/tree/main/rate-limiter-api) | Flask, Redis, Docker | ✅ Complete |
-| P5 | Deployed SaaS MVP | Everything + AWS EC2/RDS | ⏳ Upcoming |
+| P4 | [Rate Limiter API](https://github.com/hirthikk-bwd/backend-projects/tree/main/rate-limiter-api) | Flask, Redis, Docker | ✅ Complete |
+| P5 | Deployed SaaS MVP | Everything + AWS EC2/RDS | 🔧 In Progress |
 
----
-
-## 🏥 Final Year Project
+## Final Year Project
 
 ### AI-Powered Pneumonia Detection System
 **Stack:** Python, PyTorch, Flask, OpenCV, ReportLab
 
 Deep learning system to detect pneumonia from chest X-ray images via a web-based interface.
-- Flask REST API backend handling image uploads and model inference
 - DenseNet121 architecture — 98.40% binary classification accuracy
+- Flask REST API backend handling image uploads and model inference
 - Automated PDF diagnostic report generation using ReportLab
 
----
+## Connect
 
-## 📅 Current Schedule
-- **2.5hrs/day** — Backend projects
-- **2hrs/day** — DSA (LeetCode, pattern-based)
-- **45min/day** — System Design
-- **45min/day** — LinkedIn / SQL / Review
-
----
-## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirthikk08)
